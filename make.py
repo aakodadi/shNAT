@@ -1,3 +1,4 @@
+#!/usr/bin/python
 import compiler
 
 compiler.compileFile('shnatd.py')
